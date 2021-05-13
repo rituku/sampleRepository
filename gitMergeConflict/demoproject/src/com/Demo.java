@@ -10,7 +10,7 @@ public class Demo {
 		
 		int c = a + b;
 		
-		System.out.println("output c1 title 2 == "+c);
+		System.out.println("output c6 title 3 == "+c);
 	}
 
 }
